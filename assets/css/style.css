@@ -23,7 +23,7 @@
 
 #randomNumber {
   background: rgb(255, 193, 112);
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .totalScore {
@@ -36,4 +36,13 @@
   background: rgb(255, 193, 112);
   margin-bottom: 5px;
   padding: 20px;
+}
+
+.winUpdated,
+.lossesUpdated,
+.wins,
+.losses {
+  background: rgb(255, 193, 112);
+  margin: 0;
+  padding: 5px;
 }
